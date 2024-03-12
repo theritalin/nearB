@@ -5,7 +5,7 @@ const { wait } = require("reeta");
 const rpc =
   "https://near.lava.build/lava-referer-d4b2cdc9-d946-4190-87e6-15eb37403168/";
 const signerName = "thertln.near";
-const PRIVATE_KEY = "KEY";
+const PRIVATE_KEY = "KEY ";
 
 /// TO HERE
 
