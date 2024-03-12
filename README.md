@@ -5,13 +5,13 @@
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/theritalin/nearBot.git
+  git clone https://github.com/theritalin/nearB.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-  cd nearBot
+  cd nearB
 ```
 
 3. Install required npm packages:
@@ -25,11 +25,9 @@
 1. Write your rpc, private key and account name;
 
 ```bash
-const rpc =
-  "https://near-testnet.lava.build/lava-referer-d4b2cdc9-d946-4190-87e6-15eb37403168/";
-const signerName = "thertln.testnet";
-const PRIVATE_KEY =
-  "";
+const rpc = "RPC";
+const signerName = "NAME";
+const PRIVATE_KEY = "KEY";
 ```
 
 2. In your terminal, For mainnet:

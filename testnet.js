@@ -3,7 +3,7 @@ const { wait } = require("reeta");
 
 const rpc =
   "https://near-testnet.lava.build/lava-referer-d4b2cdc9-d946-4190-87e6-15eb37403168/";
-const signerName = "thertln.testnet";
+const signerName = "NAME";
 const PRIVATE_KEY = "KEY";
 
 const keyPair = nearA.utils.KeyPair.fromString(PRIVATE_KEY);
